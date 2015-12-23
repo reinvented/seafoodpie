@@ -2,6 +2,7 @@
   "@context": "http://schema.org/",
   "@type": "Recipe",
   "name": "Seafood Pie",
+  "image": "http://seafoodpie.s3-website-us-east-1.amazonaws.com/seafoodpie.jpg",
   "author": {
     "@type":"Person",
     "name":"Wade MacLauchlan"

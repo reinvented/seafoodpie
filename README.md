@@ -42,6 +42,8 @@ under the hood look like this:
       <li property="recipeIngredient">20 pie shells</li>
     </ul>
 
+You can view the results of [running the HTML through the Google Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/?url=https://raw.githubusercontent.com/reinvented/seafoodpie/master/seafoodpie.html) to see how the data is parsed.
+
 ## JSON+LD
 
 The **[seafoodpie.json](seafoodpie.json)** file is an [JSON+LD](http://json-ld.org/) version of the recipe, using the same [Schema.org Recipe vocabulary](https://schema.org/Recipe), so that, for example, the ingredients above look like this:

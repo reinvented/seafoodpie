@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Recipe",
+  "name": "Seafood Pie",
+  "author": {
+    "@type":"Person",
+    "name":"Wade MacLauchlan"
+  },
+  "datePublished": "2015-12-23",
+  "description": "This recipe for Seafood Pie was posted on Twitter by Hon. Wade MacLauchlan, Premier of Prince Edward Island, on December 23, 2015.\nThe seafood ingredients are interchangeable and can be deleted for availability or allergies. The basic rules are: (a) use as many fresh ingredients as possible, and (b) don’t skimp.\nGreen Mountain potatoes are excellent. Alternatives would be Fabula, Yukon Gold or other starchy, wet varieties. This seafood pie follows the tradition of the Acadian rappie pie, or râpure. The potatoes are peeled and grated, then cooked at a low heat in the juices from the mussels, bar clams and scallops.\nAt least 5 cups [I used 10] of ﬁnely chopped green onions, fennel and/or celery. Green onion and fennel are best. Yellow onions will do. Can be chopped in the food processor.\nDill, oregano, caraway and black pepper to taste. Use lots. I had some nice fresh dill that was chopped along with the onions etc. I used at least 5 teaspoons each of ground caraway, freshly ground pepper and oregano, plus 5 tablespoons of chopped dill.\nI use “store bought” Tenderflake shells for the base. That saves a lot of work and provides a plate. The top crusts were prepared from the Fluffo shortening recipe.",
+  "recipeYield": "20 pies",
+  "recipeIngredient": [
+    "20 lbs fresh mussels",
+    "5 bottles bar clams",
+    "5 lobsters",
+    "3 lbs scallops",
+    "3 lbs salmon fillets",
+    "2 lbs trout fillets",
+    "5 lbs starchy potatoes",
+    "5 to 10 cups of finely chopped green onions, fennel and/or celery",
+    "Dill, oregano, caraway and black pepper to taste",
+    "3 eggs",
+    "20 pie shells"
+  ],
+  "recipeInstructions": "Steam the mussels after covering the bottom of a heavy pot with modestly-priced white wine. They will produce their own juices. For 20 lbs of mussels, this will require 5-6 batches, depending on size of the pot. Do not ﬁll the pot more than 2/3 with mussels and have a tight-enough lid that the mussels will steam. After cooking each batch. pour off and save the liquor. Remove the mussel meat from shells.\nPour off the liquor from the bottled bar clams and save along with the mussel liquor. Chop the bar clam meat, not too fine.\nPoach the scallops at a medium heat in modestly-priced white wine. Save the liquor. Chop meat.\nRemove meat from lobsters. Chop. Do not save the juices.\nPrepare salmon and trout in the oven. Start under low broiler. Change to “bake” at 350 F. Don’t overcook. Remove when the ﬁsh is firm but still moist.\nPeel and grate the potatoes, retaining the starchy juices. Cook at medium heat in the combined seafood liquors, adding water as necessary. This will need to be done in two batches for 5 lbs. of potatoes. Stir regularly with a whisk as the potatoes will catch at the bottom of the pot. This will produce a glutinous starch. Add water as necessary. When the mixture is thickened but some of the grated potatoes retain their form, remove from heat and set aside.\nSauté the green onion/fennel/celery and spice mixture in butter at a medium-low heat. Cool only until translucent, softened but still crunchy. Stir in spices while cooking.\nCombine all cooked ingredients plus the eggs in a single big pot (or two batches), gently. Don’t over-mix. This will produce a wet-but-not-runny combination that can he added to the pie shells with a large slotted spoon.\nPrepare pie shells. Puncture base liberally with fork. After filling, puncture the tops with a sharp knife and brush with milk.\nCook at 450 F for 30 minutes. The pie tops will be lightly browned and ﬁrm to touch.\nServe hot, after resting, or keep in refrigerator. The pies can be kept unfrozen for several days. The potato starch helps as a preservative. They reheat well, in a low oven or a microwave."
+}

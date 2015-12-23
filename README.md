@@ -6,11 +6,13 @@ It cannot have been lost on the Premier that he was following in the tradition o
 
 The Premier followed up on December 23, 2015 by [posting the recipe to Twitter](https://twitter.com/wademaclauchlan/status/679678844639547392). Unfortunately, the Twitter recipe was imprisoned in [a low-resolution JPEG image](seafoodpie.jpg), anathema to any citizen cook concerned with open data.
 
-As a service to the province, thus, I present the Premier's recipe in various open formats, with hopes that this will aid in its flourishing. 
+As a service to the province, thus, I present the Premier's recipe in various open formats, with hopes that this will aid in its flourishing.
 
 ## HTML
 
-The **[seafoodpie.html](seafoodpie.html)** file is an HTML version of the recipe, with the recipe components wrapped in RDFa, using [the Schema.org Recipe vocabulary](https://schema.org/Recipe), so that, for example, the ingredients that look like this to the naked eye:
+The **[seafoodpie.html](seafoodpie.html)** file is an HTML version of the recipe (that's a link to the HTML source; [you can see a human-readable version here](http://seafoodpie.s3-website-us-east-1.amazonaws.com/seafoodpie.html)).
+
+In this file, the recipe components wrapped in RDFa, using [the Schema.org Recipe vocabulary](https://schema.org/Recipe), so that, for example, the ingredients that look like this to the naked eye:
 
 * 20 lbs fresh mussels
 * 5 bottles bar clams
@@ -60,6 +62,6 @@ The **[seafoodpie.json](seafoodpie.json)** file is an [JSON+LD](http://json-ld.o
 
 # License
 
-One presumes that the original recipe is Hon. Wade MacLauclan's and it certainly appears here without any sort of formal permission for reuse, so if you want to publish it in a recipe book or add it to your restaurant's menu, I suggest [you ask him](http://www.gov.pe.ca/premier/index.php3?number=1029925&lang=E).
+One presumes that the original recipe is Hon. Wade MacLauclan's and it certainly appears here without any sort of formal permission for reuse, so if you want to publish it in a recipe book or add it to your restaurant's menu, I suggest [you ask him](http://www.gov.pe.ca/premier/index.php3?number=1029925&lang=E).
 
 I'm [Peter Rukavina](http://ruk.ca/), and I did this simply as a demonstration of why open is better.

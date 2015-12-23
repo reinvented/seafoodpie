@@ -62,6 +62,33 @@ The **[seafoodpie.json](seafoodpie.json)** file is an [JSON+LD](http://json-ld.o
 	 "20 pie shells"
 	],
 
+## YAML
+
+The **[seafoodpie.yaml](seafoodpie.yaml)** file is a [YAML](http://www.yaml.org/) version of the recipe, using the [Pyprika](http://pyprika.readthedocs.org/) specification, which makes it useful not only for processing in Python, but also for importing into the [Paprika](http://www.paprikaapp.com/) OS X and iOS apps.  This is a plain-text format where, for example, the ingredients look like this:
+
+	ingredients:
+	- (20 lbs) fresh mussels
+	- (5 bottles) bar clams
+	- (5) lobsters
+	- (3 lbs) scallops
+	- (3 lbs) salmon fillets
+	- (2 lbs) trout fillets
+	- (5 lbs) starchy potatoes
+	- (5 to 10 cups) of finely chopped green onions, fennel and/or celery
+	- Dill, oregano, caraway and black pepper to taste
+	- (3) eggs
+	- (20) pie shells
+
+If you install [Pyrika](https://pypi.python.org/pypi/pyprika/1.0.1) on your Python-equipped host, you can experiment with it like this (showing the ability to adjust the quantity of ingredients):
+
+	>>> import pyprika
+	>>> recipe = pyprika.load(open('seafoodpie.yaml'))
+	>>> recipe.ingredients
+	[<Ingredient: (20 lbs) fresh mussels>, <Ingredient: (5 bottles) bar clams>, <Ingredient: (5) lobsters>, <Ingredient: (3 lbs) scallops>, <Ingredient: (3 lbs) salmon fillets>, <Ingredient: (2 lbs) trout fillets>, <Ingredient: (5 lbs) starchy potatoes>, <Ingredient: (5 to 10 cups) of finely chopped green onions, fennel and/or celery>, <Ingredient: Dill, oregano, caraway and black pepper to taste>, <Ingredient: (3) eggs>, <Ingredient: (20) pie shells>]
+	>>> more_recipe = 2 * recipe
+	>>> more_recipe.ingredients
+	[<Ingredient: (40 lbs) fresh mussels>, <Ingredient: (10 bottles) bar clams>, <Ingredient: (10) lobsters>, <Ingredient: (6 lbs) scallops>, <Ingredient: (6 lbs) salmon fillets>, <Ingredient: (4 lbs) trout fillets>, <Ingredient: (10 lbs) starchy potatoes>, <Ingredient: (10 to 10 cups) of finely chopped green onions, fennel and/or celery>, <Ingredient: Dill, oregano, caraway and black pepper to taste>, <Ingredient: (6) eggs>, <Ingredient: (40) pie shells>]
+	
 # License
 
 One presumes that the original recipe is Hon. Wade MacLauclan's and it certainly appears here without any sort of formal permission for reuse, so if you want to publish it in a recipe book or add it to your restaurant's menu, I suggest [you ask him](http://www.gov.pe.ca/premier/index.php3?number=1029925&lang=E).

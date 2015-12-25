@@ -2,7 +2,7 @@
 
 On Sunday, December 20, 2015, [Hon. Wade MacLauchlan](http://www.gov.pe.ca/premier/), Premier of Prince Edward Island, called the [CBC Radio One program Cross Country Checkup](http://betterembedder.appspot.com/?q=2680704463), responding to the question "What is your winter comfort food?" with a description of his recipe for seafood pie.
 
-It cannot have been lost on the Premier that he was following in the tradition of his [biographical subject](http://alexbcampbell.com/), and predecessor, Alex B. Campbell, [who appeared on CBC Morningside with Peter Gzowski in 1990](http://www.cbc.ca/archives/entry/pei-elections-chief-chef-joe-ghiz) and made a Caesar salad.
+It cannot have been lost on the Premier that he was following in the tradition of his predecessor as Premier, the late Joe Ghiz, [who appeared on CBC Morningside with Peter Gzowski in 1990](http://www.cbc.ca/archives/entry/pei-elections-chief-chef-joe-ghiz) and made a Caesar salad.
 
 The Premier followed up on December 23, 2015 by [posting the recipe to Twitter](https://twitter.com/wademaclauchlan/status/679678844639547392). Unfortunately, the Twitter recipe was imprisoned in [a low-resolution JPEG image](seafoodpie.jpg), anathema to any citizen cook concerned with open data.
 
